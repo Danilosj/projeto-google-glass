@@ -7,7 +7,7 @@ Foi desenvolvido por mim de Dezembro de 2019 a Janeiro de 2020.
 
 Fiz com o objetivo de aprender as lições básicas de HTML, CSS e JavaScript. Espero que gostem dos resultados.
 
-Para quem deseja iniciar na área, o canal [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/featured "Link para acessa a página do Canal no Youtube") traz uma grande quatidade de cursos gratuitos de ótima qualidade. Podem fazer que é certeza de aprendizado e sucesso.  
+Para quem deseja iniciar na área, o canal [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/featured "Link para acessa a página do Canal no Youtube") traz uma grande quantidade de cursos gratuitos de ótima qualidade. Podem fazer que é certeza de aprendizado e sucesso.  
 
 ****************
 
